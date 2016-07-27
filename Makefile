@@ -3,7 +3,7 @@ IDENTITYFILE=/path/to/.ssh/aws-ec2.pem
 SSH-USER=ubuntu
 OPEN=cygstart
 port=10080
-porotocol=http
+protocol=http
 
 # show infomation of the instance
 describe:
